@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Jayesh\Downloads\adv java\Advanced_Java"/>
+			<item value="C:\Users\Jayesh\Downloads\adv java\advance_spring\Problem_Statement_1_ORM_App"/>
 			<item value="D:\core java training\coreJAVA"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
